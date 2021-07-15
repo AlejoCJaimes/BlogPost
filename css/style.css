@@ -37,6 +37,14 @@ font-size: 16px;
     padding: 1em 0 0 0;
     margin-left: 0.45em;
 }
+#cabecera #tagline-2 
+{
+    font-weight: lighter;
+    font-size: 0.95em;
+    margin-left: 2.5em;
+    text-align: right;
+    
+}
 #container h1 
 {
     font-family: "Cambria";
