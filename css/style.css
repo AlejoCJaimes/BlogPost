@@ -51,6 +51,15 @@ font-size: 16px;
     text-align: right;
     
 }
+#img-parrafo
+{
+    width: 250px;
+    height: 300px;
+    vertical-align: center;
+    box-shadow: 0px 10px 22px -6px rgba(0, 0, 0, 0.75);
+    margin-left: auto;
+    
+}
 #footer
 {
     font-family: "Arial";
